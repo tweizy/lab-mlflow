@@ -1,0 +1,10 @@
+artifact_location: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/138751349688785727/models/m-44a2a098c0ae404a9638338d7fa0958a/artifacts
+creation_timestamp: 1762856129609
+experiment_id: '138751349688785727'
+last_updated_timestamp: 1762856131261
+model_id: m-44a2a098c0ae404a9638338d7fa0958a
+model_type: null
+name: log_reg_model
+source_run_id: 3527fc14e05a493dafc63b85fff77f44
+status: 2
+status_message: null

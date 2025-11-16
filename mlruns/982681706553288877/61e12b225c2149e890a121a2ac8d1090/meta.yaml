@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/982681706553288877/61e12b225c2149e890a121a2ac8d1090/artifacts
+end_time: 1763220479832
+entry_point_name: ''
+experiment_id: '982681706553288877'
+lifecycle_stage: active
+run_id: 61e12b225c2149e890a121a2ac8d1090
+run_name: masked-rat-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763220478599
+status: 3
+tags: []
+user_id: alfarouq

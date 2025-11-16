@@ -1,0 +1,10 @@
+artifact_location: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/820822609071506956/models/m-4e3f115398a641c9bc3e3dfd7c4f576e/artifacts
+creation_timestamp: 1763222285521
+experiment_id: '820822609071506956'
+last_updated_timestamp: 1763222286696
+model_id: m-4e3f115398a641c9bc3e3dfd7c4f576e
+model_type: null
+name: anom_weight_1_fold_3
+source_run_id: 9e31c6046beb47a19172317c351a7d17
+status: 2
+status_message: null

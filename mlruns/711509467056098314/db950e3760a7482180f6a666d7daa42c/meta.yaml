@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/711509467056098314/db950e3760a7482180f6a666d7daa42c/artifacts
+end_time: 1763319147825
+entry_point_name: ''
+experiment_id: '711509467056098314'
+lifecycle_stage: active
+run_id: db950e3760a7482180f6a666d7daa42c
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763319145527
+status: 3
+tags: []
+user_id: alfarouq

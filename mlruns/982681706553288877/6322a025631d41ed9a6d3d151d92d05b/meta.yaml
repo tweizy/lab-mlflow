@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/982681706553288877/6322a025631d41ed9a6d3d151d92d05b/artifacts
+end_time: 1763220482443
+entry_point_name: ''
+experiment_id: '982681706553288877'
+lifecycle_stage: active
+run_id: 6322a025631d41ed9a6d3d151d92d05b
+run_name: abundant-bug-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763220481100
+status: 3
+tags: []
+user_id: alfarouq

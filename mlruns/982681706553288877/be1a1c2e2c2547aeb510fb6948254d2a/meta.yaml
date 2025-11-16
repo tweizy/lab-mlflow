@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/982681706553288877/be1a1c2e2c2547aeb510fb6948254d2a/artifacts
+end_time: 1762856816481
+entry_point_name: ''
+experiment_id: '982681706553288877'
+lifecycle_stage: active
+run_id: be1a1c2e2c2547aeb510fb6948254d2a
+run_name: receptive-panda-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762856815262
+status: 3
+tags: []
+user_id: alfarouq

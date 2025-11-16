@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/813472006156533484/be1e07d0dbf84b15a2969217971a0ae3/artifacts
+end_time: 1763236164010
+entry_point_name: ''
+experiment_id: '813472006156533484'
+lifecycle_stage: active
+run_id: be1e07d0dbf84b15a2969217971a0ae3
+run_name: colorful-kite-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763236132783
+status: 3
+tags: []
+user_id: alfarouq

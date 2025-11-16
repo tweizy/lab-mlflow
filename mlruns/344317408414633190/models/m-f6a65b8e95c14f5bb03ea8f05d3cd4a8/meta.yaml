@@ -1,0 +1,10 @@
+artifact_location: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/344317408414633190/models/m-f6a65b8e95c14f5bb03ea8f05d3cd4a8/artifacts
+creation_timestamp: 1763301399807
+experiment_id: '344317408414633190'
+last_updated_timestamp: 1763301401737
+model_id: m-f6a65b8e95c14f5bb03ea8f05d3cd4a8
+model_type: null
+name: random_forest_model
+source_run_id: aafba24579d348a48e38884e630c35a2
+status: 2
+status_message: null

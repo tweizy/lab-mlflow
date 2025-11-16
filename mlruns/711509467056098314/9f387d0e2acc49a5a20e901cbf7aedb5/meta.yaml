@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/711509467056098314/9f387d0e2acc49a5a20e901cbf7aedb5/artifacts
+end_time: 1763319189525
+entry_point_name: ''
+experiment_id: '711509467056098314'
+lifecycle_stage: active
+run_id: 9f387d0e2acc49a5a20e901cbf7aedb5
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763319187690
+status: 3
+tags: []
+user_id: alfarouq

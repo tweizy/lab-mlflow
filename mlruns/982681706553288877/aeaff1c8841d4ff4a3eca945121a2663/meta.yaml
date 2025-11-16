@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/982681706553288877/aeaff1c8841d4ff4a3eca945121a2663/artifacts
+end_time: 1762856834107
+entry_point_name: ''
+experiment_id: '982681706553288877'
+lifecycle_stage: active
+run_id: aeaff1c8841d4ff4a3eca945121a2663
+run_name: thundering-finch-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762856832640
+status: 3
+tags: []
+user_id: alfarouq

@@ -1,0 +1,22 @@
+artifact_path: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/813472006156533484/models/m-a521032159304ed699bcc8ab7cbd6b1e/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.13.5
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.6.0
+model_id: m-a521032159304ed699bcc8ab7cbd6b1e
+model_size_bytes: 205320
+model_uuid: m-a521032159304ed699bcc8ab7cbd6b1e
+prompts: null
+run_id: be1e07d0dbf84b15a2969217971a0ae3
+utc_time_created: '2025-11-15 19:49:06.343559'

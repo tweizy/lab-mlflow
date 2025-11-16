@@ -1,0 +1,22 @@
+artifact_path: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/982681706553288877/models/m-d4a599daca204a7482373bb9a7d692f8/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 3.6.0
+model_id: m-d4a599daca204a7482373bb9a7d692f8
+model_size_bytes: 963
+model_uuid: m-d4a599daca204a7482373bb9a7d692f8
+prompts: null
+run_id: a467a86345ed4d00aff5d63419735fb8
+utc_time_created: '2025-11-15 15:27:45.383401'

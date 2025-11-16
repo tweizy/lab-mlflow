@@ -1,0 +1,6 @@
+artifact_location: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/813472006156533484
+creation_time: 1763236132640
+experiment_id: '813472006156533484'
+last_update_time: 1763236132640
+lifecycle_stage: active
+name: TF_Keras_MNIST

@@ -1,0 +1,12 @@
+digest: ed12ba6c
+name: dataset
+profile: '{"features_shape": [60000, 28, 28, 1], "features_size": 47040000, "features_nbytes":
+  47040000, "targets_shape": [60000, 10], "targets_size": 600000, "targets_nbytes":
+  4800000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"uint8\", \"shape\": [-1, 28, 28, 1]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]"}}'
+source: '{"tags": {"mlflow.user": "alfarouq", "mlflow.source.name": "/Users/alfarouq/Library/CloudStorage/OneDrive-Universit\u00e9MohammedVIPolytechnique/S9/cloud
+  computing/lab2/Lab Folder MLOps/.venv/lib/python3.13/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

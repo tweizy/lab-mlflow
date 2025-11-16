@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/820822609071506956/9e852976b70945b0a4a58c27e9dfdd42/artifacts
+deleted_time: 1763222269664
+end_time: 1763222178004
+entry_point_name: ''
+experiment_id: '820822609071506956'
+lifecycle_stage: deleted
+run_id: 9e852976b70945b0a4a58c27e9dfdd42
+run_name: weight_3_fold_2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763222176814
+status: 3
+tags: []
+user_id: alfarouq
