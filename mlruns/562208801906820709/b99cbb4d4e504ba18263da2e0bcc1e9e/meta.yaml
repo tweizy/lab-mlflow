@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/562208801906820709/b99cbb4d4e504ba18263da2e0bcc1e9e/artifacts
+end_time: 1763408582398
+entry_point_name: ''
+experiment_id: '562208801906820709'
+lifecycle_stage: active
+run_id: b99cbb4d4e504ba18263da2e0bcc1e9e
+run_name: Azure_LogisticRegression
+run_uuid: b99cbb4d4e504ba18263da2e0bcc1e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763408579669
+status: 3
+tags: []
+user_id: alfarouq

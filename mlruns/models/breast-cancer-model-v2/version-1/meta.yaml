@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1763408582396
+current_stage: None
+description: null
+last_updated_timestamp: 1763408582396
+name: breast-cancer-model-v2
+run_id: b99cbb4d4e504ba18263da2e0bcc1e9e
+run_link: null
+source: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/562208801906820709/b99cbb4d4e504ba18263da2e0bcc1e9e/artifacts/model_files
+status: READY
+status_message: null
+storage_location: file:///Users/alfarouq/Library/CloudStorage/OneDrive-Universite%CC%81MohammedVIPolytechnique/S9/cloud%20computing/lab2/Lab%20Folder%20MLOps/mlruns/562208801906820709/b99cbb4d4e504ba18263da2e0bcc1e9e/artifacts/model_files
+user_id: null
+version: 1
